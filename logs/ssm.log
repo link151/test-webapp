@@ -340,4 +340,10 @@ Caused by: java.io.FileNotFoundException: class path resource [jdbc.properties] 
  [INFO] [2017-07-26 22:08:52][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
  [INFO] [2017-07-26 22:08:52][UserTest]{"bak":"备注","id":1,"userName":"link"}
  [INFO] [2017-07-26 22:08:52][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@20f92649: startup date [Wed Jul 26 22:08:51 CST 2017]; root of context hierarchy
+ [INFO] [2017-07-27 20:46:55][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+ [INFO] [2017-07-27 20:46:55][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@20f92649: startup date [Thu Jul 27 20:46:55 CST 2017]; root of context hierarchy
+ [INFO] [2017-07-27 20:46:55][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.propertis]
+ [INFO] [2017-07-27 20:46:55][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+ [INFO] [2017-07-27 20:46:56][UserTest]{"bak":"备注","id":1,"userName":"link"}
+ [INFO] [2017-07-27 20:46:56][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@20f92649: startup date [Thu Jul 27 20:46:55 CST 2017]; root of context hierarchy
  
